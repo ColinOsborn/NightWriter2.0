@@ -1,4 +1,4 @@
-Module Key
+module Key
 
 BRAILLE = {
     "a" => [["0."],[".."],[".."]],
