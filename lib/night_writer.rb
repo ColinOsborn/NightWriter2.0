@@ -26,3 +26,4 @@ if __FILE__ == $0
   braille = night_writer.encode_to_braille(english.chomp)
   File.write("braille.txt", braille)
 end
+# puts "Created '#{ARGV[1]}' with #{output_message} characters"
